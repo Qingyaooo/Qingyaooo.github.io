@@ -13,4 +13,4 @@ I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX La
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/Qingyaooo) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qq_45417662?type=blog)
+[Email](neu_lqy@163.com) / [Github](https://github.com/Qingyaooo) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qq_45417662?type=blog)
