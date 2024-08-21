@@ -24,9 +24,9 @@ author:
   avatar           : "new_profile.png"
   name             : "Luo Qingyao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Location"
-  employer         : "Red Brick University"
+  employer         : "Northeastern University"
   uri              : https://qingyaooo.github.io # URL
   email            : "neu_lqy@163.com" 
 
