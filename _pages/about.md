@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, medical image computing, and 3D reconstruction.
-
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I'm a third year graduate student from [School of BMIE](http://www.bmie.neu.edu.cn/), [Northeastern University](https://www.neu.edu.cn/). My research interest includes computer vision, medical image computing, and 3D reconstruction.
 
 You can find my CV here: [Qingyao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
